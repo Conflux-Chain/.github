@@ -1,4 +1,2 @@
 
-![](./Conflux_Logo_1_Color.png)
-
-![](./Network.png)
+![](./profile/Stacked_with_space_1.png)
