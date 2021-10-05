@@ -4,4 +4,10 @@
   </a>
 </p>
 
-<a href="https://developer.confluxnetwork.org/"><h1 align="center">Developer Documentation</h1></a>
+
+<h1></h1>
+<a href="https://developer.confluxnetwork.org/">
+  <p align='center'>
+    Developer Documentation
+  </p>
+</a>
