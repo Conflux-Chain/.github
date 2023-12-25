@@ -7,7 +7,7 @@
 
 <h1></h1>
 <h3 align='center'>
-  <a href="https://developer.confluxnetwork.org/">
+  <a href="https://doc.confluxnetwork.org/">
     Developer Documentation
   </a>
 </h3>
